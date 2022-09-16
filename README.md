@@ -4,9 +4,9 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Always exploring new technologies and developing.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
 - 💼 &nbsp; Currently Partner and Solutions Manager at <a href="https://www.capela.com.br/capela/">CAPELA SOFTWARE</a>, a company of <a href="https://ensogp.com.br/">ENSO</a> group
 - 🏢 &nbsp; Co-founder and blockend/backend developer of <a href="https://queene.wtf">QueenEDAO</a>
+- 🏢 &nbsp; Proudly part of the <a href="https://twitter.com/LilyPad_Web3">LILY PAD</a> developers team 
 - 🌱 &nbsp; Getting deep on **Solidity and Ethereum blockchain**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
