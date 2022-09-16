@@ -65,5 +65,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Vin Rodrigues](https://img.shields.io/badge/-Vin-Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rodrigues-bb90b622/)](https://www.linkedin.com/in/marcos-rodrigues-bb90b622/)
+[![Linkedin: Vin Rodrigues](https://img.shields.io/badge/-Vin-Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinícius-rodrigues-bb90b622/)](https://www.linkedin.com/in/marcos-vinícius-rodrigues-bb90b622/)
 [![GitHub Vin Rodrigues]( https://img.shields.io/github/followers/rodriguesmvinicius?label=follow&style=social)](https://github.com/rodriguesmvinicius/)
