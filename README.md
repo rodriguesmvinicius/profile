@@ -54,7 +54,6 @@
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
 
